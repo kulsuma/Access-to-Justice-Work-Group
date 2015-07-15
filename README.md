@@ -30,6 +30,8 @@ http://www.americanbarfoundation.org/uploads/cms/documents/access_across_america
 “Documenting the Justice Gap in America: The Current Unmet Civil Legal Needs of Low-Income Americans” Legal Services Corporation, September 2009
 http://www.lsc.gov/sites/default/files/LSC/pdfs/documenting_the_justice_gap_in_america_2009.pdf
 
+## Tech Projects
+[Taxi ticket texting app](https://github.com/seasonics/taxi-ticket)
 
 
 
