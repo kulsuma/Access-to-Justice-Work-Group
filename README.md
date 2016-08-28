@@ -2,7 +2,7 @@
 Connecting technology and mapping to access-to-justice issues across the social innovation sector.
 
 Access to Justice Group//Open Gov Hack Night
-Facilitator: Kulsum Ameji
+Facilitator: Kulsum A.
 Participants: Rotating
 
 Purpose: To connect technology, design, and mapping to enhance justice. To create interdisciplinary approaches to social issues. 
